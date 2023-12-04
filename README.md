@@ -4,6 +4,7 @@ This project aims to predict stock prices using machine learning techniques. The
 
 ## Project Structure
 
+```
 Stock Prediction
 ├── data
 |   ├── raw                 # The original, immutable data 
@@ -15,6 +16,7 @@ Stock Prediction
     ├── features            # Scripts for feature engineering
     ├── models              # Scripts for modeling and evaluation
     └── visualization       # Scripts to create exploratory visuals
+```
 
 ## Motivation
 
