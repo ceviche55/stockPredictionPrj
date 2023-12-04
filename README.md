@@ -1,8 +1,20 @@
-Here is a draft GitHub README for the stock prediction project:
-
 # Stock Prediction
 
 This project aims to predict stock prices using machine learning techniques. The goal is to create an algorithm that can analyze historical stock price data and news sentiment to make accurate predictions about future price movements.
+
+## Project Structure
+
+Stock Prediction
+├── data
+|   ├── raw                 # The original, immutable data 
+|   └── processed           # The final, preprocessed data
+├── models                  # Trained and serialized models
+├── notebooks               # Jupyter notebooks for exploring 
+├── src                     # Source code for the project 
+    ├── data                # Scripts for data processing  
+    ├── features            # Scripts for feature engineering
+    ├── models              # Scripts for modeling and evaluation
+    └── visualization       # Scripts to create exploratory visuals
 
 ## Motivation
 
